@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">24*7 स्वास्थ्य सेव</string>
+    <string name="_24_7_healthcare">24*7 स्वास्थ्य सेवा</string>
+    <string name="login">लॉग इन करें</string>
+    <string name="register_for_new_user">नए उपयोगकर्ता के लिए पंजीकरण करें</string>
+    <string name="change_language">भाषा बदलें</string>
+    <string name="passworddd">पासवर्ड</string>
+    <string name="usernameee">उपयोगकर्ता नाम</string>
+
+</resources>

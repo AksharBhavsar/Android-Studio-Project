@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="password">Password</string>
+    <string name="_24_7_healthcare">24*7 Healthcare</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="register_for_new_user">Register for New User</string>
+    <string name="change_language">Change Language</string>
+</resources>
